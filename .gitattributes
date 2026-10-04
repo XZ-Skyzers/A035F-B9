@@ -1,0 +1,4 @@
+*.so filter=lfs diff=lfs merge=lfs -text
+tools/lib64/libplatformprotos.so filter=lfs diff=lfs merge=lfs -text
+tools/lib64/libart.so filter=lfs diff=lfs merge=lfs -text
+tools/lib64/libart-compiler.so filter=lfs diff=lfs merge=lfs -text
